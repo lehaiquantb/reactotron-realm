@@ -15,7 +15,7 @@
   ],
   "main": "dist/reactotron-realm.umd.js",
   "module": "dist/reactotron-realm.es5.js",
-  "typings": "dist/types/reactotron-realm.d.ts",
+  "typings": "dist/types/src/reactotron-realm.d.ts",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch --notify",
