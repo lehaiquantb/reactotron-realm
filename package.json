@@ -7,8 +7,8 @@
   "bugs": {
     "url": "https://github.com/lehaiquantb/reactotron-realm/issues"
   },
-  "homepage": "https://github.com/inifinitered/reactotron-realm",
-  "repository": "https://github.com/infinitered/reactotron-realm",
+  "homepage": "https://github.com/lehaiquantb/reactotron-realm",
+  "repository": "https://github.com/lehaiquantb/reactotron-realm",
   "files": [
     "dist",
     "LICENSE"
